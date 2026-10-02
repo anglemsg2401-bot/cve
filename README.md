@@ -4,7 +4,7 @@
 
 I publish vulnerability reports on GitHub as **anglemsg2401-bot** and submit findings to VulDB under the alias **anglemsg**.
 
-Contact email: **drpatricia5140@hotmail.com**
+Contact email: **msg2403@icloud.com**
 
 ## Accepted reports
 
