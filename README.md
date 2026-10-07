@@ -2,7 +2,7 @@
 
 ## Researcher information
 
-I publish vulnerability reports on GitHub as **anglemsg2401-bot** and submit findings to VulDB under the alias **anglemsg**.
+My name is **ZHANG SHENKUN**. I publish vulnerability reports on GitHub as **anglemsg2401-bot** and submit findings to VulDB under the alias **anglemsg**.
 
 Contact email: **msg2403@icloud.com**
 
